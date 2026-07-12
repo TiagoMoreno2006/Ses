@@ -1,0 +1,14 @@
+# Downloaded dependencies
+ses/FreeRTOSv202012.00/
+ses/ws6-newlib-build/
+
+# Compiled files
+*.o
+*.d
+*.elf
+
+# Object directories
+objects/
+
+# Temporary files
+*~
